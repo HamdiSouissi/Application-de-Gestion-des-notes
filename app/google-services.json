@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613296040298",
+    "firebase_url": "https://gestions-des-notes-default-rtdb.firebaseio.com",
+    "project_id": "gestions-des-notes",
+    "storage_bucket": "gestions-des-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613296040298:android:de5a21fb2aa84555e61d13",
+        "android_client_info": {
+          "package_name": "com.gestion.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613296040298-1s4jcv5t8pq17i2isdpeicop0lr8r6dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABwINWuQjknGpN2wzFHjqsjaJYoQyLUy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613296040298-1s4jcv5t8pq17i2isdpeicop0lr8r6dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
